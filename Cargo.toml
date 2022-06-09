@@ -1,6 +1,9 @@
 [package]
 name = "tempdir-shell"
+description = "Execute a shell within a temporary directory, removing it after the shell exits"
 version = "0.1.0"
+license-file = "LICENSE"
+repository = "https://github.com/nathan-at-least/tempdir-shell"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
